@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title">
+  <title id="title">Logotipo de Conecta FISC</title>
+  <rect width="120" height="120" rx="28" fill="#321b6b"/>
+  <circle cx="40" cy="60" r="13" fill="#ffffff"/>
+  <circle cx="80" cy="38" r="13" fill="#b7a7eb"/>
+  <circle cx="80" cy="82" r="13" fill="#73a7d9"/>
+  <path d="M51 55L68 44M51 65L68 76" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+</svg>

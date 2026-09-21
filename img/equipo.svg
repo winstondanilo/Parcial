@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 430" role="img" aria-labelledby="title">
+  <title id="title">Equipo colaborando frente a una pantalla</title>
+  <rect x="65" y="38" width="470" height="285" rx="22" fill="#183a68"/>
+  <rect x="88" y="62" width="424" height="235" rx="12" fill="#ffffff"/>
+  <rect x="117" y="94" width="170" height="18" rx="9" fill="#b7a7eb"/>
+  <rect x="117" y="132" width="335" height="13" rx="6" fill="#d9d2ef"/>
+  <rect x="117" y="162" width="280" height="13" rx="6" fill="#d9d2ef"/>
+  <rect x="117" y="192" width="315" height="13" rx="6" fill="#d9d2ef"/>
+  <circle cx="190" cy="344" r="42" fill="#321b6b"/>
+  <circle cx="300" cy="344" r="42" fill="#73a7d9"/>
+  <circle cx="410" cy="344" r="42" fill="#b7a7eb"/>
+  <path d="M190 386v32M300 386v32M410 386v32" stroke="#183a68" stroke-width="18" stroke-linecap="round"/>
+</svg>
